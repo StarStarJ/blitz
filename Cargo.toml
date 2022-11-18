@@ -18,7 +18,7 @@ taffy = "0.1"
 tokio = { version = "1.17.0", features = ["full"] }
 parcel_css = "1.0.0-alpha.32"
 cssparser = "0.29.2"
-piet-wgpu = { git = "https://github.com/DioxusLabs/piet-wgpu" }
+piet-wgpu = { git = "https://github.com/StarStarJ/piet-wgpu" }
 tao = { version = "0.12.1", features = ["serde"] }
 raw-window-handle = "0.4.2"
 anymap = "0.12.1"
