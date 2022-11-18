@@ -16,7 +16,7 @@ dioxus-native-core = { git = "https://github.com/DioxusLabs/dioxus", rev = "020c
 dioxus-native-core-macro = { git = "https://github.com/DioxusLabs/dioxus", rev = "020c4bf0f8f811178d7ef52637db7aa9071fa759" }
 taffy = "0.1"
 tokio = { version = "1.17.0", features = ["full"] }
-parcel_css = "1.0.0-alpha.32"
+parcel_css = { git = "https://github.com/parcel-bundler/lightningcss" }
 cssparser = "0.29.2"
 piet-wgpu = { git = "https://github.com/StarStarJ/piet-wgpu" }
 tao = { version = "0.12.1", features = ["serde"] }
